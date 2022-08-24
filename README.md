@@ -1,0 +1,2 @@
+# gopress.github.io
+template
